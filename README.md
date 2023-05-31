@@ -1,6 +1,4 @@
-Um aplicativo com apenas uma tela onde você consegue cadastrar e remover participantes.
-
-  # React Native - Aula 1 - da Rocketseat
+# React Native - Aula 1 - da Rocketseat
 
 
 Um aplicativo com apenas uma tela onde você consegue cadastrar e remover participantes.
